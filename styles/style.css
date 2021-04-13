@@ -54,15 +54,15 @@ body {
     margin: 0 auto;
     left: 0;
     right: 0;
-    top: 40%;
+    top: 25%;
     text-align: center;
     width: 60%;
 }
 #banner-text h1 {
-    font-size: 54px;
+    font-size: 56px;
 }
 #banner-text p {
-    font-size: 18px;
+    font-size: 20px;
 }
 #main-features {
     height: 500px;
